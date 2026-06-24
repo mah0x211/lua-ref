@@ -1,12 +1,15 @@
 # lua-ref
 
+[![test](https://github.com/mah0x211/lua-ref/actions/workflows/test.yml/badge.svg)](https://github.com/mah0x211/lua-ref/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/mah0x211/lua-ref/branch/master/graph/badge.svg)](https://codecov.io/gh/mah0x211/lua-ref)
+
 a value reference operation module.
 
 
 ## Installation
 
 ```sh
-luarocks install ref --from=http://mah0x211.github.io/rocks/
+luarocks install ref
 ```
 
 
