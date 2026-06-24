@@ -24,8 +24,8 @@
  *  Created by Masatoshi Teruya on 17/10/07.
  */
 
+// lua
 #include <lauxlib.h>
-#include <lua.h>
 
 static int del_lua(lua_State *L)
 {
